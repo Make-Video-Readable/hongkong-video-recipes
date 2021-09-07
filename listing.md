@@ -1,6 +1,6 @@
 | Category | Recipe    | URI                                          | Status          |
 |----------|-----------|----------------------------------------------|-----------------|
-| 三文治 小食類  | 田園熱狗      | garden-hotdog                                | :yellow_circle: |
+| 三文治 小食類  | [田園熱狗](docs/garden-hotdog.md)      | [garden-hotdog](docs/garden-hotdog.md)                                | :yellow_circle: |
 | 雞鴨鵝      | 沙薑雞       | sand-ginger-streamed-chicken                 | :yellow_circle: |
 | 通粉 公仔麵   | [雪菜肉絲米](docs/pickled-veggie-and-lean-pork-rice-vermicelli.md)     | [pickled-veggie-and-lean-pork-rice-vermicelli](docs/pickled-veggie-and-lean-pork-rice-vermicelli.md) | :yellow_circle: |
 | 食材處理     | 肉絲解凍, 醃肉  | lean-pork-marinate-and-preparation           | :yellow_circle: |
