@@ -27,3 +27,8 @@ _atempo only can set to 0.5 to 2(so slowest is 0.5x)_
 Worth knowing GCP is billed by minutes and slowing down will cause the chargeable time increase.
 
 **Making it pitch-perfect using ffmpeg(again)**
+```
+ffmpeg -ss 00:00:23 -i input.mp4 -filter:a "asetrate=44100*1.1,aresample=44100,atempo=0.75" output.mp3
+# including slowdown
+```
+
