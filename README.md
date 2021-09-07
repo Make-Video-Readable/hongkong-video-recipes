@@ -30,4 +30,5 @@ This is a non-profit project and NO donations are needed. If you see any ads on 
 Machine Learning Transcription are not perfect and might need manual editing to make it human-readable. JSON provided here are all RAW files recognised by either Azure or Google Cloud Platform.
 
 ## License
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 All the recipes are owned by their respective authors. For the repository and the JSON files they are licensed under MIT.
