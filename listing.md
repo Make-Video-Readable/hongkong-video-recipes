@@ -1,3 +1,5 @@
+# Recipe Listing
+
 | Category | Recipe    | URI                                          | Status          |
 |----------|-----------|----------------------------------------------|-----------------|
 | 三文治 小食類  | [田園熱狗](docs/garden-hotdog.md)      | [garden-hotdog](docs/garden-hotdog.md)                                | :yellow_circle: |
@@ -9,6 +11,9 @@
 | 炒粉麵      | 滑蛋蝦仁炒河    | fried-egg-prawn-horfun                       | :yellow_circle: |
 | 小菜       | 椒鹽豬扒      | pepper-salt-deep-fried-pork-chop             | :black_circle:  |
 | 快餐       | [快餐洋蔥汁豬扒](docs/pork-chop-with-onion-gravy.md)   | [pork-chop-with-onion-gravy ](docs/pork-chop-with-onion-gravy.md)                  | :yellow_circle: |
+| 炒粉麵 | [揚州炒飯](docs/Yueng-Chow-fried-rice.md) | [docs/Yueng-Chow-fried-rice.md](docs/Yueng-Chow-fried-rice.md)  | :yellow_circle: |
+
+**Legend**
 
 |                       |                                          |
 | --------------------- | ---------------------------------------- |
