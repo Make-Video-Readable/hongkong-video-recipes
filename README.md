@@ -29,6 +29,13 @@ This is a non-profit project and NO donations are needed. If you see any ads on 
 ## Other Notes
 Machine Learning Transcription are not perfect and might need manual editing to make it human-readable. JSON provided here are all RAW files recognised by either Azure or Google Cloud Platform.
 
+## To Content Creators: Intention of the project
+We put **Accessibility, Usability, and Inclusion** deeply in mind with this project, transcribing videos enable everyone equally perceive, understand the content and share the same enjoyment universally. 
+
+This project is non-profit and never monetised. You can even help to improve and share this project to more people.
+
+If you would like your video to be transcript, please submit an issue.
+
 ## License
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 All the recipes are owned by their respective authors. For the repository and the JSON files they are licensed under MIT.
+
